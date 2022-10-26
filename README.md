@@ -23,3 +23,4 @@ Enfin, modifiez la config DB dans le fichier .env de Symfony :
 ````shell
 DATABASE_URL=mysql://root:ChangeMeLater@db:3306/symfony_db?serverVersion=mariadb-10.7.1
 ````
+test modif
